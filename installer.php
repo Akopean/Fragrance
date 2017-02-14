@@ -92,7 +92,7 @@ $GLOBALS['REPLACE_LIST']
   ================================================================================================= */
 
 //COMPARE VALUES
-$GLOBALS['FW_CREATED']		= '2017-02-11 16:21:47';
+$GLOBALS['FW_CREATED']		= '2017-02-14 15:34:39';
 $GLOBALS['FW_VERSION_DUP']	= '1.1.30';
 $GLOBALS['FW_VERSION_WP']	= '4.7.2';
 $GLOBALS['FW_VERSION_DB']	= '5.7.17';
@@ -102,9 +102,9 @@ $GLOBALS['FW_VERSION_OS']	= 'WINNT';
 $GLOBALS['FW_TABLEPREFIX'] = 'wp_';
 $GLOBALS['FW_URL_OLD'] = 'http://fragrance';
 $GLOBALS['FW_URL_NEW'] = '';
-$GLOBALS['FW_PACKAGE_NAME'] = '20170211_fragrance_589f3a1bcb7be7721170211162147_archive.zip';
+$GLOBALS['FW_PACKAGE_NAME'] = 'fragrance_58a3238fa573a3219170214153439_archive.zip';
 $GLOBALS['FW_PACKAGE_NOTES'] = '';
-$GLOBALS['FW_SECURE_NAME'] = '20170211_fragrance_589f3a1bcb7be7721170211162147';
+$GLOBALS['FW_SECURE_NAME'] = 'fragrance_58a3238fa573a3219170214153439';
 $GLOBALS['FW_DBHOST'] = '';
 $GLOBALS['FW_DBHOST'] = empty($GLOBALS['FW_DBHOST']) ? 'localhost' : $GLOBALS['FW_DBHOST'];
 $GLOBALS['FW_DBPORT'] = '';
@@ -117,7 +117,7 @@ $GLOBALS['FW_SSL_LOGIN'] = 0;
 $GLOBALS['FW_CACHE_WP'] = 0;
 $GLOBALS['FW_CACHE_PATH'] = 0;
 $GLOBALS['FW_BLOGNAME'] = 'Fragrance';
-$GLOBALS['FW_WPROOT'] = 'F:/OpServer/OpenServer/domains/routeFolder/fragrance/';
+$GLOBALS['FW_WPROOT'] = 'F:/OpServer/OpenServer/domains/routeFolder/Wordpress/fragrance/';
 $GLOBALS['FW_DUPLICATOR_VERSION'] = '1.1.30';
 $GLOBALS['FW_OPTS_DELETE'] = json_decode('["duplicator_ui_view_state","duplicator_package_active","duplicator_settings"]', true);
 
